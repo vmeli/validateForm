@@ -1,0 +1,30 @@
+html {
+	height: 100%;
+	background: rgba(0, 128, 128, 0.45);
+}
+
+.frm__body {
+	text-align: center;
+	line-height: 2rem;
+}
+
+.webform-component--sexo {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+#edit-submitted-sexo {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+
+
